@@ -1,7 +1,7 @@
 # EC-Tower_Data_Organizing
 This repository mainly contains two scripts:
 - One script for data extraction from the EC-tower processed data in order to support the footprint-area calculation
-- One script from Dr. Ayman Nassar for footprint-area calculation (Slight changes have been made based on Ayman's original script)
+- One script from Dr. [Ayman Nassar](https://github.com/aymnassar) for footprint-area calculation (Slight changes have been made based on Ayman's original script)
 
 ## Brief introduction about the data extraction
 This simple script used in python aims at extracting information from the EC tower (processed) data, a part of the GRAPEX project. The product from this programm can be used to generate the corresponding footprint area, and can also (conveniently) used for TSEB modeling verification.
