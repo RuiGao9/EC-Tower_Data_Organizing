@@ -14,10 +14,15 @@ Please refer Ayman's published paper:<br>
 [To what extend does the Eddy Covariance footprint cutoff influence the estimation of surface energy fluxes using two source energy balance model and high-resolution imagery in commercial vineyards?](https://www.researchgate.net/publication/341654936_To_what_extend_does_the_Eddy_Covariance_footprint_cutoff_influence_the_estimation_of_surface_energy_fluxes_using_two_source_energy_balance_model_and_high-resolution_imagery_in_commercial_vineyards)
 
 ## How to cite:
-Please also cite the paper below when you are using any script in this repository.<br>
-[Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information](https://www.researchgate.net/publication/350820947_Evapotranspiration_partitioning_assessment_using_a_machine-learning-based_leaf_area_index_and_the_two-source_energy_balance_model_with_sUAV_information)
+Please cite the paper below when you are using any script in this repository.<br>
+- [Footprint area generating based on eddy covariance records](https://doi.org/10.4211/hs.9118e2c1034e40e4ba4721cd17702f70)<br>
+Gao, R., A. Nassar, A. F. Torres-Rua, L. Hipps, M. Aboutalebi, W. A. White, M. Anderson, W. P. Kustas, M. M. Alsina, J. Alfieri, N. Dokoozlian, F. Gao, H. Nieto, L. McKee, J. H. Prueger, L. Sanchez, A. J. Mcelrone, N. B. Ortiz, I. Gowing, C. Coopmans (2021). Footprint area generating based on eddy covariance records, HydroShare, https://doi.org/10.4211/hs.9118e2c1034e40e4ba4721cd17702f70
+- [To what extend does the Eddy Covariance footprint cutoff influence the estimation of surface energy fluxes using two source energy balance model and high-resolution imagery in commercial vineyards?](https://www.researchgate.net/publication/341654936_To_what_extend_does_the_Eddy_Covariance_footprint_cutoff_influence_the_estimation_of_surface_energy_fluxes_using_two_source_energy_balance_model_and_high-resolution_imagery_in_commercial_vineyards)<br>
+Nassar, A., Torres-Rua, A., Kustas, W., Nieto, H., McKee, M., Hipps, L., ... & Dokoozlian, N. (2020, May). To what extent does the Eddy Covariance footprint cutoff influence the estimation of surface energy fluxes using two source energy balance model and high-resolution imagery in commercial vineyards?. In Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping V (Vol. 11414, p. 114140G). International Society for Optics and Photonics.
+- [Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information](https://www.researchgate.net/publication/350820947_Evapotranspiration_partitioning_assessment_using_a_machine-learning-based_leaf_area_index_and_the_two-source_energy_balance_model_with_sUAV_information)<br>
+Gao, R., Torres-Rua, A., Nassar, A., Alfieri, J., Aboutalebi, M., Hipps, L., ... & Agam, N. (2021, April). Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information. In Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI (Vol. 11747, p. 117470N). International Society for Optics and Photonics.
 
 
 Create date: October 14th, 2021<br>
-Latest update date: October 14th, 2021<br>
+Latest update date: January 3rd, 2022<br>
 Main contact: Rui.Gao@usu.edu<br>
