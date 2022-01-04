@@ -1,0 +1,4 @@
+Site,Longitude,Latitude,Year,Month,Day,Time_flight,Time_EC,DOY,TOD,ustar,Wind_Speed,Wind_Direction,Air_TempC,Actual_Vapor_Pressure,CO2_Density,Air_Density,Specific_Heat_Capacity,Air_TempK,Incident_Solar,Net_Radiation,Soil_Heat_Flux,Sensible_Heat_Flux,Latent_Heat_Flux,Soil_Temp,Soil_Moisture_Content,Canopy_Height,Height_Tower,Obukov
+RIP,-120.1761,36.8492,2018,8,7,8:27:00,8:30:00,219,8.5,0.2143,1.24,341,24.1,1.42,831.78,1.1685,1012.22,297.25,559.38,331.27,56.32,37.6,144.59,23.66,12.11,1.9883,4,-22.90309792
+RIP,-120.1761,36.8492,2018,8,7,10:38:00,10:30:00,219,10.5,0.3526,2.01,337.1,29.9,1.31,719.66,1.1456,1011.48,303.05,859.04,556.63,94.91,130.93,270.98,26.53,14.93,1.9883,4,-29.26189292
+RIP,-120.1761,36.8492,2018,8,7,11:57:00,12:00:00,219,12,0.314,1.77,325.25,32.2,1.225,702.045,1.1364,1010.97,305.35,935.12,623.33,84.365,160.28,284.23,28.75,15.645,1.9883,4,-16.86425249
