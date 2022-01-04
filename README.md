@@ -14,7 +14,7 @@ Please refer Ayman's published paper:<br>
 [To what extend does the Eddy Covariance footprint cutoff influence the estimation of surface energy fluxes using two source energy balance model and high-resolution imagery in commercial vineyards?](https://www.researchgate.net/publication/341654936_To_what_extend_does_the_Eddy_Covariance_footprint_cutoff_influence_the_estimation_of_surface_energy_fluxes_using_two_source_energy_balance_model_and_high-resolution_imagery_in_commercial_vineyards)
 
 ## Note
-Details about this repository (or how to run those python programms) can be found in [Footprint area generating based on eddy covariance records](https://www.hydroshare.org/resource/9118e2c1034e40e4ba4721cd17702f70/#citation) either on the HYDROSHARE platform or the "Manual.pdf" in this repository.
+Details about this repository (or how to run those python programs) can be found in [Footprint area generating based on eddy covariance records](https://www.hydroshare.org/resource/9118e2c1034e40e4ba4721cd17702f70/#citation) either on the HYDROSHARE platform or the "Manual.pdf" in this repository.
 
 ## How to cite:
 Please cite the paper below when you are using any script in this repository.<br>
